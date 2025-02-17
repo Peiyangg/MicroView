@@ -21,13 +21,8 @@
         options: [
           { value: "r_healthy_e_sparcc", label: "Healthy - SparCC" },
           { value: "r_infected_e_sparcc", label: "Infected - SparCC" },
-          { value: "r_inbetween_e_sparcc", label: "In-between - SparCC" },
-          { value: "r_healthy_e_pearson", label: "Healthy - Pearson" },
-          { value: "r_infected_e_pearson", label: "Infected - Pearson" },
-          { value: "r_inbetween_e_pearson", label: "In-between - Pearson" },
           { value: "r_healthy_e_spearman", label: "Healthy - Spearman" },
           { value: "r_infected_e_spearman", label: "Infected - Spearman" },
-          { value: "r_inbetween_e_spearman", label: "In-between - Spearman" }
         ]
       },
       {
@@ -35,13 +30,8 @@
         options: [
           { value: "r_healthy_l_sparcc", label: "Healthy - SparCC" },
           { value: "r_infected_l_sparcc", label: "Infected - SparCC" },
-          { value: "r_inbetween_l_sparcc", label: "In-between - SparCC" },
-          { value: "r_healthy_l_pearson", label: "Healthy - Pearson" },
-          { value: "r_infected_l_pearson", label: "Infected - Pearson" },
-          { value: "r_inbetween_l_pearson", label: "In-between - Pearson" },
           { value: "r_healthy_l_spearman", label: "Healthy - Spearman" },
           { value: "r_infected_l_spearman", label: "Infected - Spearman" },
-          { value: "r_inbetween_l_spearman", label: "In-between - Spearman" }
         ]
       }
     ];
