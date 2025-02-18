@@ -8,14 +8,7 @@
     
     // Create organized options for the dropdown
     const options = [
-      
-      {
-        label: "Water Sample",
-        options: [
-          { value: "w_healthy", label: "Healthy" },
-          { value: "w_infested", label: "Infested" }
-        ]
-      },
+  
       {
         label: "Rockwool Early Stage",
         options: [
@@ -23,15 +16,6 @@
           { value: "r_infected_e_sparcc", label: "Infected - SparCC" },
           { value: "r_healthy_e_spearman", label: "Healthy - Spearman" },
           { value: "r_infected_e_spearman", label: "Infected - Spearman" },
-        ]
-      },
-      {
-        label: "Rockwool Late Stage",
-        options: [
-          { value: "r_healthy_l_sparcc", label: "Healthy - SparCC" },
-          { value: "r_infected_l_sparcc", label: "Infected - SparCC" },
-          { value: "r_healthy_l_spearman", label: "Healthy - Spearman" },
-          { value: "r_infected_l_spearman", label: "Infected - Spearman" },
         ]
       }
     ];
